@@ -1,4 +1,6 @@
 # gatsby-starter-hello-world
+[![Build Status](https://travis-ci.com/tomhibbers/gatsby-site.svg?branch=master)](https://travis-ci.com/tomhibbers/gatsby-site)
+
 Starter with the bare essentials needed for a [Gatsby](https://www.gatsbyjs.org/) site.
 
 Install this starter (assuming Gatsby is installed) by running from your CLI:
