@@ -5,7 +5,8 @@
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",
-    "serve": "gatsby serve"
+    "serve": "gatsby serve",
+    "test": "echo 'run tests here'"
   },
   "dependencies": {
     "@material-ui/core": "^3.2.0",
